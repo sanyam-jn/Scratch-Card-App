@@ -1,0 +1,4 @@
+#Wed Nov 13 19:41:30 IST 2019
+base.0=C\:\\Users\\sanyam jain\\AndroidStudioProjects\\scratchcard_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
